@@ -23,7 +23,6 @@ output: html_document
 setwd("~/Tulasi_Reproducible_Research/")
 activity<-read.csv("activity.csv")
 ```
-
 Exploring the basics of this data
 ```{r}
 dim(activity)
